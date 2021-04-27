@@ -17,6 +17,10 @@ The applet provided a configuration file where it was possible to set-up:
 
 ## Documentation
 
+## Comparative [Version in Python](https://github.com/danielfcollier/python-applet-cluster-status)
+
+A Python version of the Applet developed in Java. At the time, 2005, Java won.
+
 ## Further Information
 
 - Applets were Java web apps and ran on JVM - they have been deprecated since 2017. 
